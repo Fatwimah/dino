@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="dino.adventure.game1234567" android-versionCode="1" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="dino.adventure.game123456" android-versionCode="1" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Dino's Adventure</name>
 	<description>Dino Adventure Game</description>
 	<author href="adv.com" email="dinoadv@gmail.com">Fatwimah</author>
